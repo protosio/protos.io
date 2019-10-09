@@ -4,16 +4,15 @@
   
   <url>
     <loc>https://protos.io/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://protos.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://protos.io/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
