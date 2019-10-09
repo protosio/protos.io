@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Protos - The path to digital sovereignty</title>
+    <link>https://protos.io/motivation/</link>
+    <description>Recent content on Protos - The path to digital sovereignty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://protos.io/motivation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

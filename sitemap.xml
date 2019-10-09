@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://protos.io/motivation/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://protos.io/categories/</loc>
   </url>
   
