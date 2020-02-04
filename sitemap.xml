@@ -3,22 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://protos.io/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://protos.io/motivation/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://protos.io/subscribe/</loc>
+    <loc>https://protos.io/home/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://protos.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://protos.io/releases/</loc>
+  </url>
+  
+  <url>
+    <loc>https://protos.io/motivation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://protos.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://protos.io/subscribe/</loc>
   </url>
   
   <url>

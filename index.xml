@@ -10,5 +10,42 @@
 	<atom:link href="https://protos.io/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title></title>
+      <link>https://protos.io/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://protos.io/home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Download</title>
+      <link>https://protos.io/releases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://protos.io/releases/</guid>
+      <description>Download Protos Protos has two components, the server component, protosd, and the desktop cli client. In the future GUI based desktop clients will be provided. A user only needs to download and install the cli, which takes care of deploying the server component to one of the supported cloud providers. 64bit binaries only are distributed at the moment.
+CLI This page contains only the latest cli release, which is 0.0.0-dev.1</description>
+    </item>
+    
+    <item>
+      <title>Motivation</title>
+      <link>https://protos.io/motivation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://protos.io/motivation/</guid>
+      <description>Protos - own your digital identity and data by self-hosting  Overview Protos’s mission is to empower individuals and small organisations to establish or reclaim their digital sovereignty by building a self-hosting platform for Internet applications and by promoting the formation of an ecosystem of applications around it. By enabling non-technical people to self-host, Protos aims to counteract the powerful trend in Internet centralisation and preserve the qualities of the Internet that make it such a powerful catalyst for innovation and free exchange of ideas.</description>
+    </item>
+    
+    <item>
+      <title>Subscribe</title>
+      <link>https://protos.io/subscribe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://protos.io/subscribe/</guid>
+      <description>@font-face { font-display: block; font-family: Roboto; src: url(https://assets.sendinblue.com/font/Roboto/Latin/normal/normal/7529907e9eaf8ebb5220c5f9850e3811.woff2) format(&#34;woff2&#34;), url(https://assets.sendinblue.com/font/Roboto/Latin/normal/normal/25c678feafdc175a70922a116c9be3e7.woff) format(&#34;woff&#34;) } @font-face { font-display: fallback; font-family: Roboto; font-weight: 600; src: url(https://assets.sendinblue.com/font/Roboto/Latin/medium/normal/6e9caeeafb1f3491be3e32744bc30440.woff2) format(&#34;woff2&#34;), url(https://assets.sendinblue.com/font/Roboto/Latin/medium/normal/71501f0d8d5aa95960f6475d5487d4c2.woff) format(&#34;woff&#34;) } @font-face { font-display: fallback; font-family: Roboto; font-weight: 700; src: url(https://assets.sendinblue.com/font/Roboto/Latin/bold/normal/3ef7cf158f310cf752d5ad08cd0e7e60.woff2) format(&#34;woff2&#34;), url(https://assets.sendinblue.com/font/Roboto/Latin/bold/normal/ece3a1d82f18b60bcce0211725c476aa.woff) format(&#34;woff&#34;) } #sib-container input:-ms-input-placeholder { text-align: left; font-family: &#34;Helvetica&#34;, sans-serif; color: #c0ccda; border-width: px; } #sib-container input::placeholder { text-align: left; font-family: &#34;Helvetica&#34;, sans-serif; color: #c0ccda; border-width: px; }   Your subscription could not be saved.</description>
+    </item>
+    
   </channel>
 </rss>

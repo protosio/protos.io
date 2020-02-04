@@ -126,9 +126,16 @@ a:hover {
 
 /* header */
 
+.headerContainer-home {
+  background-color: #f8f9fa;
+  padding: 10px 0 10px 0;
+}
+
 .headerContainer {
   background-color: #f8f9fa;
   padding: 10px 0 10px 0;
+  box-shadow: 0 8px 8px -8px rgba(0, 0, 0, 0.12);
+  border-bottom: 1px solid #e8ecf0;
 }
 .headerContainer-flex {
   display: flex;
@@ -153,6 +160,8 @@ a:hover {
   height: 100%;
   background-color: #f8f9fa;
   padding: 100px 0 150px 0;
+  box-shadow: 0 8px 8px -8px rgba(0, 0, 0, 0.12);
+  border-bottom: 1px solid #e8ecf0
 }
 
 .ctaContainer-flex {
