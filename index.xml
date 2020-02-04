@@ -21,10 +21,10 @@
     
     <item>
       <title>Download</title>
-      <link>https://protos.io/releases/</link>
+      <link>https://protos.io/download/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://protos.io/releases/</guid>
+      <guid>https://protos.io/download/</guid>
       <description>Download Protos Protos has two components, the server component, protosd, and the desktop cli client. In the future GUI based desktop clients will be provided. A user only needs to download and install the cli, which takes care of deploying the server component to one of the supported cloud providers. 64bit binaries only are distributed at the moment.
 CLI This page contains only the latest cli release, which is 0.0.0-dev.1</description>
     </item>
