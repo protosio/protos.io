@@ -1,34 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://protos.io/home/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://protos.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://protos.io/download/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://protos.io/motivation/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://protos.io/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://protos.io/subscribe/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://protos.io/tags/</loc>
   </url>
-  
 </urlset>
